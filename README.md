@@ -1,2 +1,2 @@
 # funicular-notebooks
-Collection of some basic Computer Vision and Deep Learning Notebooks
+Collection of some basic Deep Learning Notebooks and Computer Vision 
